@@ -1,0 +1,3 @@
+sudo libreoffice -o spill1.odg 
+
+sudo gedit spilltest.world 
